@@ -22,9 +22,9 @@ for target_index in range(N):
         temp_sum = num_list[start_index] + num_list[end_index]
         if temp_sum < num_list[target_index]:
             start_index += 1
-        if temp_sum > num_list[target_index]:
+        elif temp_sum > num_list[target_index]:
             end_index -= 1
-        if temp_sum == num_list[target_index]:
+        elif temp_sum == num_list[target_index]:
             count += 1
             break
 
