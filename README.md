@@ -1,2 +1,2 @@
 [![Solved.ac
-woominyo](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=woominyo)](https://solved.ac/woominyo)
